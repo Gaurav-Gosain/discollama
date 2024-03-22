@@ -74,7 +74,7 @@ Using the slash command (`/generate`):
 
 Example Response
 
-![response](image.png)
+![response](assets/response.png)
 
 ## 🗺️ Roadmap
 Here are the upcoming features we plan to implement:
