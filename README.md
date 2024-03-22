@@ -1,6 +1,6 @@
 # 🕺 Discollama 🦙
 
-Discollama is a Discord bot project written in Go. It uses the [DiscordGo](github.com/bwmarrin/discordgo) library to interact with the Discord API and provides users with the ability to generate text using models locally hosted using [Ollama](https://ollama.com/).
+Discollama is a Discord bot project written in Go. It uses the [DiscordGo](https://github.com/bwmarrin/discordgo) library to interact with the Discord API and provides users with the ability to generate text using models locally hosted using [Ollama](https://ollama.com/).
 
 ## 📚 Table of Contents
 
